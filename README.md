@@ -5,3 +5,5 @@ The purpose of this repository is to transform for data insight generation. The 
 "Population and People, ASGS and LGA, 2011, 2014-2019” data and “Health and Disability, ASGS and LGA, 2011, 2014-2018” data are from “1410.0 - Data by Region, 2014-19” collection from the Australian Bureau of Statistics (ABS)(https://www.abs.gov.au/)
 
 The Jupyter Notebook is a written Python program language that reads the ABS data to transform into a required format for data insight generation.
+
+Cite the code: [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4718322.svg)](https://doi.org/10.5281/zenodo.4718322)
